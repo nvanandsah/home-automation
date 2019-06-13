@@ -40,3 +40,4 @@ https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_
 https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/README.md
 https://github.com/Trivediujjwal/home-automation/blob/master/_config.yml
+https://github.com/Trivediujjwal/home-automation/blob/master/diode-in-4007-nsl-500x500.jpg
