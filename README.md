@@ -36,3 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg
+https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_.jpg
