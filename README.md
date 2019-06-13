@@ -35,15 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/README.md
-https://github.com/Trivediujjwal/home-automation/blob/master/_config.yml
-https://github.com/Trivediujjwal/home-automation/blob/master/diode-in-4007-nsl-500x500.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/download%20(1).jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/download%20(2).jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/download.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/home.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/maxresdefault.jpg
-https://github.com/Trivediujjwal/home-automation/blob/master/project.jpg
+
