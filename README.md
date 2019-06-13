@@ -36,11 +36,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-_config.yml	Set theme jekyll-theme-midnight	4 hours ago
-diode-in-4007-nsl-500x500.jpg	Add files via upload	3 hours ago
-download (1).jpg	Add files via upload	3 hours ago
-download (2).jpg	Add files via upload	3 hours ago
-download.jpg	Add files via upload	3 hours ago
-home.jpg	Add files via upload	4 hours ago
-maxresdefault.jpg	Add files via upload	3 hours ago
-project.jpg
