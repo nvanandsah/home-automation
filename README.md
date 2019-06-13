@@ -41,3 +41,4 @@ https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.
 https://github.com/Trivediujjwal/home-automation/blob/master/README.md
 https://github.com/Trivediujjwal/home-automation/blob/master/_config.yml
 https://github.com/Trivediujjwal/home-automation/blob/master/diode-in-4007-nsl-500x500.jpg
+https://github.com/Trivediujjwal/home-automation/blob/master/download%20(1).jpg
