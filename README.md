@@ -45,3 +45,4 @@ https://github.com/Trivediujjwal/home-automation/blob/master/download%20(1).jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/download%20(2).jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/download.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/home.jpg
+https://github.com/Trivediujjwal/home-automation/blob/master/maxresdefault.jpg
