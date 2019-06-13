@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.jpg
+https://github.com/Trivediujjwal/home-automation/blob/master/README.md
