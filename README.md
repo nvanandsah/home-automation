@@ -39,3 +39,4 @@ https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_
 https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.jpg
 https://github.com/Trivediujjwal/home-automation/blob/master/README.md
+https://github.com/Trivediujjwal/home-automation/blob/master/_config.yml
