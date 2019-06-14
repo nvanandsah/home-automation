@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg) and ![Image](src)
+[Link](https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
